@@ -1,6 +1,7 @@
 ## Hi there 👋
-
 This is the ILHS Robotics Team Github.
+
+Our [Website](https://sites.google.com/apps.nsd.org/ftc28139/) shows our schedule and other information
 <!--
 
 **Here are some ideas to get you started:**
